@@ -1,8 +1,8 @@
 <?php
 
-namespace Shahnewaz\RedprintUnity\Menu\Filters;
+namespace Shahnewaz\RedprintUnityNg\Menu\Filters;
 
-use Shahnewaz\RedprintUnity\Menu\Builder;
+use Shahnewaz\RedprintUnityNg\Menu\Builder;
 
 class ClassesFilter implements FilterInterface
 {

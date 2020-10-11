@@ -6,11 +6,11 @@ use Illuminate\Contracts\View\Factory;
 use Illuminate\Contracts\Config\Repository;
 use Illuminate\Contracts\Events\Dispatcher;
 use Illuminate\Contracts\Container\Container;
-use Shahnewaz\RedprintUnity\Events\BuildingMenu;
-use Shahnewaz\RedprintUnity\Console\RedprintUnityMakeCommand;
-use Shahnewaz\RedprintUnity\Console\MakeRedprintUnityCommand;
+use Shahnewaz\RedprintUnityNg\Events\BuildingMenu;
+use Shahnewaz\RedprintUnityNg\Console\RedprintUnityMakeCommand;
+use Shahnewaz\RedprintUnityNg\Console\MakeRedprintUnityCommand;
 use Illuminate\Support\ServiceProvider as BaseServiceProvider;
-use Shahnewaz\RedprintUnity\Http\ViewComposers\RedprintUnityComposer;
+use Shahnewaz\RedprintUnityNg\Http\ViewComposers\RedprintUnityComposer;
 
 class ServiceProvider extends BaseServiceProvider
 {

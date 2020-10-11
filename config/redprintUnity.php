@@ -37,10 +37,10 @@ return [
     */
    
     'filters' => [
-        Shahnewaz\RedprintUnity\Menu\Filters\HrefFilter::class,
-        Shahnewaz\RedprintUnity\Menu\Filters\ActiveFilter::class,
-        Shahnewaz\RedprintUnity\Menu\Filters\SubmenuFilter::class,
-        Shahnewaz\RedprintUnity\Menu\Filters\ClassesFilter::class,
-        Shahnewaz\RedprintUnity\Menu\Filters\GateFilter::class,
+        Shahnewaz\RedprintUnityNg\Menu\Filters\HrefFilter::class,
+        Shahnewaz\RedprintUnityNg\Menu\Filters\ActiveFilter::class,
+        Shahnewaz\RedprintUnityNg\Menu\Filters\SubmenuFilter::class,
+        Shahnewaz\RedprintUnityNg\Menu\Filters\ClassesFilter::class,
+        Shahnewaz\RedprintUnityNg\Menu\Filters\GateFilter::class,
     ]
 ];

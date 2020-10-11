@@ -1,9 +1,9 @@
 <?php
 
-namespace Shahnewaz\RedprintUnity\Menu\Filters;
+namespace Shahnewaz\RedprintUnityNg\Menu\Filters;
 
 use Illuminate\Contracts\Auth\Access\Gate;
-use Shahnewaz\RedprintUnity\Menu\Builder;
+use Shahnewaz\RedprintUnityNg\Menu\Builder;
 
 class GateFilter implements FilterInterface
 {

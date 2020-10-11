@@ -4,8 +4,8 @@ namespace Shahnewaz\RedprintUnity;
 
 use Illuminate\Contracts\Events\Dispatcher;
 use Illuminate\Contracts\Container\Container;
-use Shahnewaz\RedprintUnity\Menu\Builder;
-use Shahnewaz\RedprintUnity\Events\BuildingMenu;
+use Shahnewaz\RedprintUnityNg\Menu\Builder;
+use Shahnewaz\RedprintUnityNg\Events\BuildingMenu;
 
 class RedprintUnity
 {

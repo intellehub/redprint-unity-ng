@@ -1,9 +1,9 @@
 <?php
 
-namespace Shahnewaz\RedprintUnity\Http\ViewComposers;
+namespace Shahnewaz\RedprintUnityNg\Http\ViewComposers;
 
 use Illuminate\View\View;
-use Shahnewaz\RedprintUnity\RedprintUnity;
+use Shahnewaz\RedprintUnityNg\RedprintUnity;
 
 class RedprintUnityComposer
 {

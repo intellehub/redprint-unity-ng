@@ -1,9 +1,9 @@
 <?php
 
-namespace Shahnewaz\RedprintUnity\Menu\Filters;
+namespace Shahnewaz\RedprintUnityNg\Menu\Filters;
 
-use Shahnewaz\RedprintUnity\Menu\Builder;
-use Shahnewaz\RedprintUnity\Menu\ActiveChecker;
+use Shahnewaz\RedprintUnityNg\Menu\Builder;
+use Shahnewaz\RedprintUnityNg\Menu\ActiveChecker;
 
 class ActiveFilter implements FilterInterface
 {

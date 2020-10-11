@@ -1,6 +1,6 @@
 <?php
 
-namespace Shahnewaz\RedprintUnity\Menu;
+namespace Shahnewaz\RedprintUnityNg\Menu;
 
 use Illuminate\Support\Str;
 use Illuminate\Http\Request;

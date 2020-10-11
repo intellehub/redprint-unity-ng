@@ -1,6 +1,6 @@
 <?php
 
-namespace Shahnewaz\RedprintUnity\Console;
+namespace Shahnewaz\RedprintUnityNg\Console;
 
 use Illuminate\Auth\Console\AuthMakeCommand;
 

@@ -1,8 +1,8 @@
 <?php
 
-namespace Shahnewaz\RedprintUnity\Events;
+namespace Shahnewaz\RedprintUnityNg\Events;
 
-use Shahnewaz\RedprintUnity\Menu\Builder;
+use Shahnewaz\RedprintUnityNg\Menu\Builder;
 
 class BuildingMenu
 {
